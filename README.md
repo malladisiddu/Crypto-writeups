@@ -1,2 +1,2 @@
 # Crypto-writeups
-CTF challs Crypto writeup 
+CTF challs Crypto writeups
