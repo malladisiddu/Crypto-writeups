@@ -21,13 +21,12 @@ e=3
 ## The Vulnerability:
 Since there are multiple ciphertexts and multiple modulus and e = 3, It is hastad's broadcast attack.
 But to understand hastad's attack, first you need to understand [chinese remainder theorem](https://crypto.stanford.edu/pbc/notes/numbertheory/crt.html).
-Here is my complete [exploit](https://github.com/malladisiddu/Crypto-writeups/blob/master/WPICTF-2020/Illuminati_Confirmed/hastads.py).
+Here is my complete [exploit](https://github.com/malladisiddu/Crypto-writeups/blob/master/WPICTF-2020/Illuminati_Confirmed/exploit.py).
 
 But one thing I found out of this challenge is that 
 ```
-python
 from Crypto.Util.number import *
 long_to_bytes()
 ```
 this has some errors to convert to ascii text, So I has to use online tool to convert ascii numbers to [text](http://www.unit-conversion.info/texttools/ascii/).
-Here is the ![Flag]()
+Here is the ![Flag](Pictures/flag.png)
