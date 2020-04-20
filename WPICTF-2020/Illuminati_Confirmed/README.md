@@ -30,4 +30,5 @@ from Crypto.Util.number import *
 long_to_bytes()
 ```
 this has some errors to convert to ascii text, So I has to use online tool to convert ascii numbers to [text](http://www.unit-conversion.info/texttools/ascii/).
-Here is the ![Flag](flag.png)
+Here is the flag![Flag](flag.png)
+**Flag:** WPI{Ch1n3s3_R3M@ind3R_Th30r3m_!_}
