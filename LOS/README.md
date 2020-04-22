@@ -14,5 +14,4 @@
 
 - - -
 
-### My Write up:
-https://zealzenith.wixsite.com/zsquare/post/labyrinth-of-suffering-number-theory-basics-tested-here
+You can see my complete writeup [here](https://zealzenith.wixsite.com/zsquare/post/labyrinth-of-suffering-number-theory-basics-tested-here)
