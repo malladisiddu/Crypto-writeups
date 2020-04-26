@@ -1,5 +1,5 @@
 # Post-Homework Death
-**Challenge Description:**My math teacher made me do this, so now I'm forcing you to do this too.
+**Challenge Description:** My math teacher made me do this, so now I'm forcing you to do this too.
 Flag is all lowercase; replace spaces with underscores.
 
 **Hint:**
