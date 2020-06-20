@@ -1,8 +1,5 @@
 from sage.all import *
 
-# All the variable names mean the same as mentioned in the explanation
-# For eg, a,b are the values in the function f = ax + b
-
 def gcd(a, b): 
     while b:
         a, b = b, a % b
