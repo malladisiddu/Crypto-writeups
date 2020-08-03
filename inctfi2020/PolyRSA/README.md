@@ -16,6 +16,7 @@ where **m** & **n** are the degree of the two irreducible polynomials reduced fr
 Here is my [exploit](exploit.sage)
 ### The Vulnerability
 Given n is factorizable.
+
 **Flag**: inctf{and_i_4m_ir0n_m4n}
 ### Reference
 [Polynomial RSA](http://www.diva-portal.se/smash/get/diva2:823505/FULLTEXT01.pdf)
