@@ -36,7 +36,7 @@ def keygen():
 ```
 After a lot of googling I came to know that this is **Okamoto-Uchiyama Cryptosystem**.
 Encryption and Decryption of this cryptosystem is
-[okamoto-cryptosystem](okamoto-cryptosystem.png)
+![okamoto-cryptosystem](okamoto-cryptosystem.png)
 
 ---
 ## The Vulnerability
@@ -58,7 +58,8 @@ def L(x, p):
 def res(x, y, p):
     return x*(inverse(y, p))
 ```
-Here is my entire [exploit]
+Here is my entire [exploit](exploit.py)
+
 **Flag**: `Poseidon{l064r17hm_fr0m_7h3_cycl1c_6r0up}`
 
 ---
