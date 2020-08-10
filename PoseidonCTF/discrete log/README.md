@@ -59,7 +59,7 @@ def res(x, y, p):
     return x*(inverse(y, p))
 ```
 Here is my entire [exploit]
-
+**Flag**: `Poseidon{l064r17hm_fr0m_7h3_cycl1c_6r0up}`
 ---
 ## Reference
 [Okamoto-Uchiyama Cryptosystem](https://en.wikipedia.org/wiki/Okamoto%E2%80%93Uchiyama_cryptosystem)
