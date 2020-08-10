@@ -37,6 +37,7 @@ def keygen():
 After a lot of googling I came to know that this is **Okamoto-Uchiyama Cryptosystem**.
 Encryption and Decryption of this cryptosystem is
 [okamoto-cryptosystem](okamoto-cryptosystem.png)
+
 ---
 ## The Vulnerability
 * Given `modulus(n)` is factorizable
@@ -50,7 +51,7 @@ q = 1431658262314921627510773683473363196308420782143674628950149812953092962552
 ```
 and then it is just the implementaion of the Okamoto-Uchiyama decryption function
 
-```
+```python
 def L(x, p):
     return (x-1)//p
  
