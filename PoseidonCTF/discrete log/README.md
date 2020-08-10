@@ -42,7 +42,7 @@ Encryption and Decryption of this cryptosystem is
 ## The Vulnerability
 * Given `modulus(n)` is factorizable
 I just used `factorint` function from `sympy` module to factorize `n`
-[Nfactors](Nfactors.png)
+![Nfactors](Nfactors.png)
 
 found `p` and `q`
 ```
@@ -60,6 +60,7 @@ def res(x, y, p):
 ```
 Here is my entire [exploit]
 **Flag**: `Poseidon{l064r17hm_fr0m_7h3_cycl1c_6r0up}`
+
 ---
 ## Reference
 [Okamoto-Uchiyama Cryptosystem](https://en.wikipedia.org/wiki/Okamoto%E2%80%93Uchiyama_cryptosystem)
